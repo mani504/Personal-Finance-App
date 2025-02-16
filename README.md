@@ -1,1 +1,1 @@
-# Personal Finance Web App
+# Personal Finance Web Application
